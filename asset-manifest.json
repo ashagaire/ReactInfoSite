@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactInfoSite/static/css/main.8ce35bf6.css",
+    "main.js": "/ReactInfoSite/static/js/main.88c6349e.js",
+    "index.html": "/ReactInfoSite/index.html",
+    "main.8ce35bf6.css.map": "/ReactInfoSite/static/css/main.8ce35bf6.css.map",
+    "main.88c6349e.js.map": "/ReactInfoSite/static/js/main.88c6349e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ce35bf6.css",
+    "static/js/main.88c6349e.js"
+  ]
+}
